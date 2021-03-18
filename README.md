@@ -1,6 +1,7 @@
 # HGIWOs_Module
 
-The purpose of this is to PCB the project that HAGIWO is working on.  
+The purpose of this repository is to make PCBs of the projects that HAGIWO is working on.  
+HAGIWO is an established designer of very minimalist DIY modular synthesizers using Arduino.  
 The Kicad project files, including the circuit and panel designs, are now available.  
 I'm just starting to learn more about circuit design, so if there are any issues with the design or the circuit itself, please let me know immediately!
 
