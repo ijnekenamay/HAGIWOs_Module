@@ -13,10 +13,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 6050 4650 3    50   Input ~ 0
-12V
 $Comp
-L Device:C C1
+L MultiClockDiv-rescue:C-Device C1
 U 1 1 604A65EB
 P 5200 3550
 F 0 "C1" H 5315 3596 50  0000 L CNN
@@ -34,7 +32,7 @@ Connection ~ 5200 3350
 Wire Wire Line
 	5200 3350 5450 3350
 $Comp
-L power:GND #PWR0101
+L MultiClockDiv-rescue:GND-power #PWR0101
 U 1 1 604A7AEC
 P 5200 3700
 F 0 "#PWR0101" H 5200 3450 50  0001 C CNN
@@ -45,7 +43,7 @@ F 3 "" H 5200 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R1
+L MultiClockDiv-rescue:R-Device R1
 U 1 1 604A8079
 P 5000 3350
 F 0 "R1" V 4793 3350 50  0000 C CNN
@@ -56,10 +54,10 @@ F 3 "~" H 5000 3350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R_POT RV1
+L MultiClockDiv-rescue:R_POT-Device MULTI/DIV1
 U 1 1 604A8867
 P 4700 3350
-F 0 "RV1" H 4631 3396 50  0000 R CNN
+F 0 "MULTI/DIV1" H 4631 3396 50  0000 R CNN
 F 1 "100K" H 4631 3305 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 4700 3350 50  0001 C CNN
 F 3 "~" H 4700 3350 50  0001 C CNN
@@ -67,7 +65,7 @@ F 3 "~" H 4700 3350 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0102
+L MultiClockDiv-rescue:GND-power #PWR0102
 U 1 1 604A99C9
 P 4700 3500
 F 0 "#PWR0102" H 4700 3250 50  0001 C CNN
@@ -82,7 +80,7 @@ Text GLabel 4700 3200 1    50   Input ~ 0
 Text GLabel 5750 4650 3    50   Output ~ 0
 5V
 $Comp
-L Device:C C2
+L MultiClockDiv-rescue:C-Device C2
 U 1 1 604AB78A
 P 5150 2650
 F 0 "C2" H 5265 2696 50  0000 L CNN
@@ -93,7 +91,7 @@ F 3 "~" H 5150 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0103
+L MultiClockDiv-rescue:GND-power #PWR0103
 U 1 1 604ABFF9
 P 5150 2500
 F 0 "#PWR0103" H 5150 2250 50  0001 C CNN
@@ -104,7 +102,7 @@ F 3 "" H 5150 2500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R2
+L MultiClockDiv-rescue:R-Device R2
 U 1 1 604AC8BA
 P 5000 2800
 F 0 "R2" V 4793 2800 50  0000 C CNN
@@ -115,10 +113,10 @@ F 3 "~" H 5000 2800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R_POT RV2
+L MultiClockDiv-rescue:R_POT-Device RATE1
 U 1 1 604AE3A9
 P 4700 2800
-F 0 "RV2" H 4631 2846 50  0000 R CNN
+F 0 "RATE1" H 4631 2846 50  0000 R CNN
 F 1 "100K" H 4631 2755 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 4700 2800 50  0001 C CNN
 F 3 "~" H 4700 2800 50  0001 C CNN
@@ -126,7 +124,7 @@ F 3 "~" H 4700 2800 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0104
+L MultiClockDiv-rescue:GND-power #PWR0104
 U 1 1 604AEF52
 P 4700 2950
 F 0 "#PWR0104" H 4700 2700 50  0001 C CNN
@@ -144,18 +142,18 @@ Connection ~ 5150 2800
 Text GLabel 4700 2650 1    50   Input ~ 0
 5V
 $Comp
-L Switch:SW_SPDT SW1
+L MultiClockDiv-rescue:SW_SPDT-Switch SW1
 U 1 1 604B0539
 P 6800 3050
 F 0 "SW1" H 6800 2725 50  0000 C CNN
-F 1 "SW_SPDT" H 6800 2816 50  0000 C CNN
+F 1 "SELECT" H 6800 2816 50  0000 C CNN
 F 2 "digikey-footprints:Toggle_Switch_100SP1T1B4M2QE" H 6800 3050 50  0001 C CNN
 F 3 "~" H 6800 3050 50  0001 C CNN
 	1    6800 3050
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0105
+L MultiClockDiv-rescue:GND-power #PWR0105
 U 1 1 604B380F
 P 7000 3050
 F 0 "#PWR0105" H 7000 2800 50  0001 C CNN
@@ -168,7 +166,7 @@ $EndComp
 Wire Wire Line
 	6600 3150 6450 3150
 $Comp
-L Connector:AudioJack2 J1
+L MultiClockDiv-rescue:AudioJack2-Connector J1
 U 1 1 604B618F
 P 8200 4100
 F 0 "J1" H 8020 4083 50  0000 R CNN
@@ -179,7 +177,7 @@ F 3 "~" H 8200 4100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0106
+L MultiClockDiv-rescue:GND-power #PWR0106
 U 1 1 604B8742
 P 8000 4200
 F 0 "#PWR0106" H 8000 3950 50  0001 C CNN
@@ -190,7 +188,7 @@ F 3 "" H 8000 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R3
+L MultiClockDiv-rescue:R-Device R3
 U 1 1 604B8E7B
 P 7850 4100
 F 0 "R3" V 7643 4100 50  0000 C CNN
@@ -201,7 +199,7 @@ F 3 "~" H 7850 4100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R R4
+L MultiClockDiv-rescue:R-Device R4
 U 1 1 604B9756
 P 7700 4250
 F 0 "R4" H 7770 4296 50  0000 L CNN
@@ -212,7 +210,7 @@ F 3 "~" H 7700 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D1
+L MultiClockDiv-rescue:LED-Device D1
 U 1 1 604B9CC5
 P 7700 4550
 F 0 "D1" V 7739 4432 50  0000 R CNN
@@ -223,7 +221,7 @@ F 3 "~" H 7700 4550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0107
+L MultiClockDiv-rescue:GND-power #PWR0107
 U 1 1 604BB2CF
 P 7700 4700
 F 0 "#PWR0107" H 7700 4450 50  0001 C CNN
@@ -237,7 +235,7 @@ Wire Wire Line
 	7700 4100 7300 4100
 Connection ~ 7700 4100
 $Comp
-L Device:D_Schottky D2
+L MultiClockDiv-rescue:D_Schottky-Device D2
 U 1 1 604BBE41
 P 7300 3950
 F 0 "D2" V 7254 4030 50  0000 L CNN
@@ -251,7 +249,7 @@ Connection ~ 7300 4100
 Wire Wire Line
 	7300 4100 7000 4100
 $Comp
-L Device:D_Schottky D3
+L MultiClockDiv-rescue:D_Schottky-Device D3
 U 1 1 604BC48E
 P 7300 4250
 F 0 "D3" V 7254 4330 50  0000 L CNN
@@ -264,7 +262,7 @@ $EndComp
 Text GLabel 7300 3800 1    50   Input ~ 0
 5V
 $Comp
-L power:GND #PWR0108
+L MultiClockDiv-rescue:GND-power #PWR0108
 U 1 1 604BD021
 P 7300 4400
 F 0 "#PWR0108" H 7300 4150 50  0001 C CNN
@@ -275,7 +273,7 @@ F 3 "" H 7300 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack2 J2
+L MultiClockDiv-rescue:AudioJack2-Connector J2
 U 1 1 604C4DCE
 P 9500 3450
 F 0 "J2" H 9320 3433 50  0000 R CNN
@@ -286,7 +284,7 @@ F 3 "~" H 9500 3450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0109
+L MultiClockDiv-rescue:GND-power #PWR0109
 U 1 1 604C4DD8
 P 9300 3550
 F 0 "#PWR0109" H 9300 3300 50  0001 C CNN
@@ -297,7 +295,7 @@ F 3 "" H 9300 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R5
+L MultiClockDiv-rescue:R-Device R5
 U 1 1 604C4DE2
 P 9150 3450
 F 0 "R5" V 8943 3450 50  0000 C CNN
@@ -308,7 +306,7 @@ F 3 "~" H 9150 3450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R R6
+L MultiClockDiv-rescue:R-Device R6
 U 1 1 604C4DEC
 P 9000 3600
 F 0 "R6" H 9070 3646 50  0000 L CNN
@@ -319,7 +317,7 @@ F 3 "~" H 9000 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D4
+L MultiClockDiv-rescue:LED-Device D4
 U 1 1 604C4DF6
 P 9000 3900
 F 0 "D4" V 9039 3782 50  0000 R CNN
@@ -330,7 +328,7 @@ F 3 "~" H 9000 3900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0110
+L MultiClockDiv-rescue:GND-power #PWR0110
 U 1 1 604C4E00
 P 9000 4050
 F 0 "#PWR0110" H 9000 3800 50  0001 C CNN
@@ -344,7 +342,7 @@ Wire Wire Line
 	9000 3450 8600 3450
 Connection ~ 9000 3450
 $Comp
-L Device:D_Schottky D5
+L MultiClockDiv-rescue:D_Schottky-Device D5
 U 1 1 604C4E0C
 P 8600 3300
 F 0 "D5" V 8554 3380 50  0000 L CNN
@@ -358,7 +356,7 @@ Connection ~ 8600 3450
 Text GLabel 8600 3150 1    50   Input ~ 0
 5V
 $Comp
-L power:GND #PWR0111
+L MultiClockDiv-rescue:GND-power #PWR0111
 U 1 1 604C4E23
 P 8600 3750
 F 0 "#PWR0111" H 8600 3500 50  0001 C CNN
@@ -371,7 +369,7 @@ $EndComp
 Wire Wire Line
 	6450 3450 8600 3450
 $Comp
-L Device:D_Schottky D6
+L MultiClockDiv-rescue:D_Schottky-Device D6
 U 1 1 604C4E18
 P 8600 3600
 F 0 "D6" V 8554 3680 50  0000 L CNN
@@ -386,7 +384,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 3550 7000 4100
 $Comp
-L Connector:AudioJack2 J3
+L MultiClockDiv-rescue:AudioJack2-Connector J3
 U 1 1 604DD02E
 P 8500 2050
 F 0 "J3" H 8320 2033 50  0000 R CNN
@@ -397,7 +395,7 @@ F 3 "~" H 8500 2050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0112
+L MultiClockDiv-rescue:GND-power #PWR0112
 U 1 1 604DF3DF
 P 8300 2150
 F 0 "#PWR0112" H 8300 1900 50  0001 C CNN
@@ -408,7 +406,7 @@ F 3 "" H 8300 2150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R10
+L MultiClockDiv-rescue:R-Device R10
 U 1 1 604E03AA
 P 8000 2200
 F 0 "R10" H 7930 2154 50  0000 R CNN
@@ -422,7 +420,7 @@ Connection ~ 8000 2050
 Wire Wire Line
 	8000 2050 8300 2050
 $Comp
-L Device:LED D7
+L MultiClockDiv-rescue:LED-Device D7
 U 1 1 604E4943
 P 8000 2500
 F 0 "D7" V 8039 2382 50  0000 R CNN
@@ -435,9 +433,9 @@ $EndComp
 Wire Wire Line
 	6450 2050 6450 2950
 Wire Wire Line
-	6450 2050 6650 2050
+	6450 2050 6500 2050
 $Comp
-L Device:R R7
+L MultiClockDiv-rescue:R-Device R7
 U 1 1 604E8E6A
 P 7400 2050
 F 0 "R7" V 7193 2050 50  0000 C CNN
@@ -450,30 +448,18 @@ $EndComp
 Wire Wire Line
 	7550 2050 7800 2050
 $Comp
-L Device:D_Schottky D8
+L MultiClockDiv-rescue:D_Schottky-Device D8
 U 1 1 604EA7DB
-P 7550 2200
-F 0 "D8" V 7504 2280 50  0000 L CNN
-F 1 "BAT43" V 7595 2280 50  0000 L CNN
-F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7550 2200 50  0001 C CNN
-F 3 "~" H 7550 2200 50  0001 C CNN
-	1    7550 2200
-	0    1    1    0   
-$EndComp
-Connection ~ 7550 2050
-$Comp
-L power:GND #PWR0113
-U 1 1 604EBC72
-P 7550 2350
-F 0 "#PWR0113" H 7550 2100 50  0001 C CNN
-F 1 "GND" H 7555 2177 50  0000 C CNN
-F 2 "" H 7550 2350 50  0001 C CNN
-F 3 "" H 7550 2350 50  0001 C CNN
-	1    7550 2350
-	1    0    0    -1  
+P 6950 2050
+F 0 "D8" V 6904 2130 50  0000 L CNN
+F 1 "BAT43" V 6995 2130 50  0000 L CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 2050 50  0001 C CNN
+F 3 "~" H 6950 2050 50  0001 C CNN
+	1    6950 2050
+	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0114
+L MultiClockDiv-rescue:GND-power #PWR0114
 U 1 1 604EC55D
 P 8000 2650
 F 0 "#PWR0114" H 8000 2400 50  0001 C CNN
@@ -484,20 +470,18 @@ F 3 "" H 8000 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D9
+L MultiClockDiv-rescue:D-Device D9
 U 1 1 604EE6C8
-P 6800 2050
-F 0 "D9" H 6800 1833 50  0000 C CNN
-F 1 "D" H 6800 1924 50  0000 C CNN
-F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6800 2050 50  0001 C CNN
-F 3 "~" H 6800 2050 50  0001 C CNN
-	1    6800 2050
+P 6650 2050
+F 0 "D9" H 6650 1833 50  0000 C CNN
+F 1 "D" H 6650 1924 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6650 2050 50  0001 C CNN
+F 3 "~" H 6650 2050 50  0001 C CNN
+	1    6650 2050
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	6950 2050 7250 2050
 $Comp
-L Connector:AudioJack2 J4
+L MultiClockDiv-rescue:AudioJack2-Connector J4
 U 1 1 604EF526
 P 7900 5150
 F 0 "J4" H 7720 5133 50  0000 R CNN
@@ -508,7 +492,7 @@ F 3 "~" H 7900 5150 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0115
+L MultiClockDiv-rescue:GND-power #PWR0115
 U 1 1 604F083E
 P 7700 5250
 F 0 "#PWR0115" H 7700 5000 50  0001 C CNN
@@ -519,7 +503,7 @@ F 3 "" H 7700 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R8
+L MultiClockDiv-rescue:R-Device R8
 U 1 1 604F0FBD
 P 7500 5150
 F 0 "R8" V 7293 5150 50  0000 C CNN
@@ -534,7 +518,7 @@ Wire Wire Line
 Wire Wire Line
 	7350 5150 7200 5150
 $Comp
-L Device:D_Schottky D10
+L MultiClockDiv-rescue:D_Schottky-Device D10
 U 1 1 604F2EB3
 P 7000 5000
 F 0 "D10" V 6954 5080 50  0000 L CNN
@@ -548,7 +532,7 @@ Connection ~ 7000 5150
 Wire Wire Line
 	7000 5150 6650 5150
 $Comp
-L Device:D_Schottky D11
+L MultiClockDiv-rescue:D_Schottky-Device D11
 U 1 1 604F3485
 P 7000 5300
 F 0 "D11" V 6954 5380 50  0000 L CNN
@@ -561,7 +545,7 @@ $EndComp
 Text GLabel 7000 4850 1    50   Input ~ 0
 5V
 $Comp
-L Device:R R9
+L MultiClockDiv-rescue:R-Device R9
 U 1 1 604F3D7C
 P 6650 5300
 F 0 "R9" H 6720 5346 50  0000 L CNN
@@ -574,7 +558,7 @@ $EndComp
 Wire Wire Line
 	6650 5450 7000 5450
 $Comp
-L power:GND #PWR0116
+L MultiClockDiv-rescue:GND-power #PWR0116
 U 1 1 604F4FB6
 P 7000 5450
 F 0 "#PWR0116" H 7000 5200 50  0001 C CNN
@@ -608,7 +592,7 @@ Wire Wire Line
 	7800 2050 8000 2050
 NoConn ~ 5850 2650
 $Comp
-L MCU_Module:Arduino_Nano_v3.x A1
+L MultiClockDiv-rescue:Arduino_Nano_v3.x-MCU_Module A1
 U 1 1 604A519A
 P 5950 3650
 F 0 "A1" H 5950 2250 50  0000 C CNN
@@ -619,7 +603,7 @@ F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 5950 3650 50
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0117
+L MultiClockDiv-rescue:GND-power #PWR0117
 U 1 1 604FFD5F
 P 5950 2650
 F 0 "#PWR0117" H 5950 2400 50  0001 C CNN
@@ -649,57 +633,49 @@ NoConn ~ 5450 3850
 NoConn ~ 5450 4150
 NoConn ~ 5450 4250
 NoConn ~ 6600 2950
+Wire Wire Line
+	7250 2050 7100 2050
 $Comp
-L Connector:Conn_01x16_Male J5
-U 1 1 604B606A
-P 5550 5300
-F 0 "J5" V 5477 5228 50  0000 C CNN
-F 1 "Conn_01x16_Male" V 5386 5228 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 5550 5300 50  0001 C CNN
-F 3 "~" H 5550 5300 50  0001 C CNN
-	1    5550 5300
+L MultiClockDiv-rescue:Conn_01x10_Male-Connector J5
+U 1 1 6059D42A
+P 5650 5300
+F 0 "J5" V 5577 5228 50  0000 C CNN
+F 1 "POWER" V 5486 5228 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" H 5650 5300 50  0001 C CNN
+F 3 "~" H 5650 5300 50  0001 C CNN
+	1    5650 5300
 	0    -1   -1   0   
 $EndComp
+NoConn ~ 5250 5100
+NoConn ~ 5350 5100
 Wire Wire Line
-	5050 5100 5150 5100
-Connection ~ 5150 5100
+	5950 5100 5850 5100
+Connection ~ 5550 5100
 Wire Wire Line
-	5150 5100 5250 5100
-Connection ~ 5250 5100
+	5550 5100 5450 5100
+Connection ~ 5650 5100
 Wire Wire Line
-	5250 5100 5350 5100
-Connection ~ 5350 5100
+	5650 5100 5550 5100
+Connection ~ 5750 5100
 Wire Wire Line
-	5350 5100 5450 5100
-Connection ~ 5450 5100
+	5750 5100 5650 5100
+Connection ~ 5850 5100
 Wire Wire Line
-	5450 5100 5550 5100
+	5850 5100 5750 5100
+Wire Wire Line
+	6050 4650 6050 5100
+Wire Wire Line
+	6050 5100 6150 5100
+Connection ~ 6050 5100
 $Comp
-L power:GND #PWR0118
-U 1 1 604B99B7
-P 5250 5100
-F 0 "#PWR0118" H 5250 4850 50  0001 C CNN
-F 1 "GND" H 5255 4927 50  0000 C CNN
-F 2 "" H 5250 5100 50  0001 C CNN
-F 3 "" H 5250 5100 50  0001 C CNN
-	1    5250 5100
+L MultiClockDiv-rescue:GND-power #PWR0113
+U 1 1 605A9BE7
+P 5750 5100
+F 0 "#PWR0113" H 5750 4850 50  0001 C CNN
+F 1 "GND" H 5755 4927 50  0000 C CNN
+F 2 "" H 5750 5100 50  0001 C CNN
+F 3 "" H 5750 5100 50  0001 C CNN
+	1    5750 5100
 	-1   0    0    1   
 $EndComp
-NoConn ~ 4850 5100
-NoConn ~ 4950 5100
-NoConn ~ 6050 5100
-NoConn ~ 6150 5100
-NoConn ~ 6250 5100
-NoConn ~ 6350 5100
-Wire Wire Line
-	5650 5100 5750 5100
-Wire Wire Line
-	5750 5100 5750 5000
-Wire Wire Line
-	5750 5000 6050 5000
-Wire Wire Line
-	6050 5000 6050 4650
-Connection ~ 5750 5100
-NoConn ~ 5850 5100
-NoConn ~ 5950 5100
 $EndSCHEMATC
