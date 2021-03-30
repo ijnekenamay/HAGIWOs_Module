@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MultiClockDiv-rescue)(type Legacy)(uri ${KIPRJMOD}/MultiClockDiv-rescue.lib)(options "")(descr ""))
+)
