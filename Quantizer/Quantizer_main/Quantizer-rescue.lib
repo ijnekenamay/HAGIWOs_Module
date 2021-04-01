@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MCP4726A0T-E_CH-eec
+#
+DEF MCP4726A0T-E_CH-eec U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN
+F1 "MCP4726A0T-E_CH-eec" 0 300 50 H V L CNN
+F2 "Microchip-MCP4726A0T-E_CH-*" 0 400 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22272B.pdf" 0 500 50 H I L CNN
+F4 "SOT26A-6" 0 600 50 H I L CNN "Code  IPC"
+F5 "Manufacturer URL" 0 700 50 H I L CNN "Component Link 1 Description"
+F6 "http://www.microchip.com/" 0 800 50 H I L CNN "Component Link 1 URL"
+F7 "Package Specification" 0 900 50 H I L CNN "Component Link 3 Description"
+F8 "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf" 0 1000 50 H I L CNN "Component Link 3 URL"
+F9 "revB, Sep-2011" 0 1100 50 H I L CNN "Datasheet Version"
+F10 "6-Lead Plastic Small Outline Transistor (CH) [SOT-23]" 0 1200 50 H I L CNN "Package Description"
+F11 "revBB, Aug-2009" 0 1300 50 H I L CNN "Package Version"
+F12 "IC" 0 1400 50 H I L CNN "category"
+F13 "2557234" 0 1500 50 H I L CNN "ciiva ids"
+F14 "9a671895f9d52d73" 0 1600 50 H I L CNN "library id"
+F15 "Microchip" 0 1700 50 H I L CNN "manufacturer"
+F16 "SOT-23-CH6" 0 1800 50 H I L CNN "package"
+F17 "1331948549" 0 1900 50 H I L CNN "release date"
+F18 "079106DF-D074-49D1-8764-4E282EC11F01" 0 2000 50 H I L CNN "vault revision"
+F19 "yes" 0 2100 50 H I L CNN "imported"
+DRAW
+S 200 100 900 -600 1 1 0 f
+X VOUT 1 1000 0 100 L 40 40 1 1 O
+X VSS 2 1000 -500 100 L 40 40 1 1 W
+X VDD 3 100 -500 100 R 40 40 1 1 W
+X SDA 4 100 -100 100 R 40 40 1 1 B
+X SCL 5 100 0 100 R 40 40 1 1 I C
+X VREF 6 100 -300 100 R 40 40 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
