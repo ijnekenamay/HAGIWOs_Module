@@ -1,4 +1,39 @@
-1145342165823765
+1522356655182753
+Arduino
+Arduino_Micro
+Arduino Micro
+Arduino Micro
+0
+34
+34
+Arduino
+Arduino_Nano
+Arduino Nano
+Arduino Nano
+0
+30
+30
+Arduino
+Arduino_Nano_Every
+Arduino Nano Every
+Arduino Nano Every
+0
+30
+30
+Arduino
+Arduino_Pro_Mini
+Arduino Pro Mini
+Arduino Pro Mini
+0
+28
+28
+Arduino
+Sparkfun_Pro_Micro
+Sparkfun Pro Micro
+Arduino Sparkfun Pro Micro
+0
+24
+24
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -4325,6 +4360,1420 @@ CP_Tantalum_Case-X_EIA-7343-43_Wave
 0
 0
 0
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, , circular holeshttps://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_Ledino_KB3SPRS_Horizontal
+https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
+jack stereo TRS
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_PJ311_Horizontal
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_PJ320D_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_PJ320E_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+5
+4
+Connector_Audio
+Jack_3.5mm_PJ31060-I_Horizontal
+PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)
+headphones jack plug stereo 3.5mm PJ31060-I PJ31060
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
+WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_Switronic_ST-005-G_horizontal
+3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
+Connector Audio Switronic ST-005-G
+0
+4
+3
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ2FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching mono jack (T/S), https://www.neutrik.com/en/product/nj2fd-v
+neutrik jack vertical
+0
+2
+2
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ3FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching stereo jack (T/R/S), https://www.neutrik.com/en/product/nj3fd-v
+neutrik jack vertical
+0
+3
+3
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 2 x switching (normalling) stereo jack (T/TN/R/RN/S), https://www.neutrik.com/en/product/nj5fd-v
+neutrik jack vertical
+0
+5
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6fd-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6TB-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack  B-gauge type (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6tb-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj4hcd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj4hfd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hfd3
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HHD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hhd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and offset PCB pins, https://www.neutrik.com/en/product/nmj6hcd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, full threaded nose, straight PCB pins, gold plated contacts, https://www.neutrik.com/en/product/nmj6hfd2-au
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj6hfd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hfd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and fishtail PCB pins, https://www.neutrik.com/en/product/nmj6hfd4
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hhd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, unswitched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj3hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj4hf
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hh-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj4hh
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hh-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, half threaded nose, https://www.neutrik.com/en/product/nrj6hh-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj6hh
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, gold plated contacts, efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, efficient chassis ground connection, T+R normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-pre
+neutrik jack slim
+0
+6
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose with efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HC_Horizontal
+Stacking Jacks, Mono dual jack, full nose, https://www.neutrik.com/en/product/nsj8hc
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
+Stacking Jacks, Mono dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj8hl
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HC_Horizontal
+Stacking Jacks, Stereo dual jack, full nose, https://www.neutrik.com/en/product/nsj12hc
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal
+Stacking Jacks, Stereo dual jack, full threaded nose, https://www.neutrik.com/en/product/nsj12hf-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal
+Stacking Jacks, Stereo dual jack, half threaded nose, https://www.neutrik.com/en/product/nsj12hh-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
+Stacking Jacks, Stereo dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj12hl
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj5fi-h-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-h
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj5fi-v-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-v
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-h-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-h-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fa-h
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-v-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-v-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fa-v
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fi-h-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-h
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fi-v-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-v
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj9fi-h-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-h
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj9fi-v-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-v
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj10fi-h-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-h
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj10fi-v-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-v
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-DA_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faah1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV-0_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faav1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2-0_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fahl1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh1-e
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh2-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBHL1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fbhl1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-0_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring, no latch, https://www.neutrik.com/en/product/nc3fbv1-0
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-SW_Vertical
+B Series, 3 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-0_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-1_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-0_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-1_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
+A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH-0_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHL_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mahl
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHR_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mahr
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
+A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV-0_Vertical
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV_Vertical
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-0_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-1_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbh-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-E_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbh-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhl-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mbhl
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhr-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mbhr
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-0_Vertical
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-1_Vertical
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-B_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbv-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-E_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbv-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-SW_Vertical
+B Series, 3 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH-0_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fah-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV-0_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fav-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBH_Horizontal
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBV_Vertical
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAH_Horizontal
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAV_Vertical
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBH_Horizontal
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBV_Vertical
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc5fah-0
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-DA_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fah-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-DA_Vertical
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fav-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-SW_Vertical
+A Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, color coding possible, https://www.neutrik.com/en/product/nc5fav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV_Vertical
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH-B_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-B_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-SW_Vertical
+B Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAH_Horizontal
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+A Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV_Vertical
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH-B_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-B_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-SW_Vertical
+B Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-H_Horizontal
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, horizontal pcb mount, https://www.neutrik.com/en/product/nlj2md-h
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, https://www.neutrik.com/en/product/nlj2md-v
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-H_Horizontal
+speakON Chassis Connectors, 2 pole chassis connector, gray D-size flange, countersunk thru holes, horizontal PCB, https://www.neutrik.com/en/product/nl2md-h
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-V_Vertical
+speakON Chassis Connectors, 2 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl2md-v
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-1_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-2_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-3_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-3
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-1_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-2_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-R_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, red D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-r
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-S_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, switchable version of NL4MD-V with 8 vertical PCB contacts (4 switching contacts), https://www.neutrik.com/en/product/nl4md-v-s
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V-1_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v-1
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NLT4MD-V_Vertical
+STX Series, 4 pole male chassis connector, metal housing, vertical PCB mount,  self tapping screw holes (A-screw), https://www.neutrik.com/en/product/nlt4md-v
+neutrik speakon stx
+0
+4
+4
+Connector_Audio
+MiniXLR-5_Switchcraft_TRAPC_Horizontal
+http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
+THT Mini XLR 5Pin right angle
+0
+5
+5
 Connector_IDC
 IDC-Header_2x03_P2.54mm_Horizontal
 Through hole IDC box header, 2x03, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
@@ -22224,6 +23673,83 @@ EuroBoard_viertel_Type-I_80mmX50mm_holes
 0
 0
 0
+Eurocad
+Alpha9mmPot
+
+
+0
+5
+3
+Eurocad
+B3W9_1LED
+
+
+0
+6
+6
+Eurocad
+BA56_3DIG_7SEG
+
+
+0
+12
+12
+Eurocad
+DC_JACK
+
+
+0
+3
+3
+Eurocad
+LED3mm
+LED 3mm round vertical
+LED  3mm round vertical
+0
+2
+2
+Eurocad
+LP4OA1PBCT
+
+
+0
+8
+8
+Eurocad
+MIDI_DIN5
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+5
+5
+Eurocad
+MOUSEBITE1mm
+
+
+0
+0
+0
+Eurocad
+PJ301M-12
+
+
+0
+3
+3
+Eurocad
+RGBLED10mm
+
+
+0
+4
+4
+Eurocad
+TL1105SPF250Q
+
+
+0
+4
+4
 Fiducials
 Fiducial_0.5mm_Dia_1mm_Outer
 
@@ -30570,6 +32096,111 @@ LED_miniPLCC_2315
 0
 LEDs
 LED_miniPLCC_2315_Handsoldering
+
+
+0
+0
+0
+LOGO
+silk8
+
+
+0
+0
+0
+LOGO
+silk9
+
+
+0
+0
+0
+LOGO
+silk10
+
+
+0
+0
+0
+LOGO
+silk11
+
+
+0
+0
+0
+LOGO
+silk12
+
+
+0
+0
+0
+LOGO
+silk13
+
+
+0
+0
+0
+LOGO
+silk14
+
+
+0
+0
+0
+LOGO
+silk15
+
+
+0
+0
+0
+LOGO
+silk16
+
+
+0
+0
+0
+LOGO
+silk17
+
+
+0
+0
+0
+LOGO
+silk18
+
+
+0
+0
+0
+LOGO
+silk19
+
+
+0
+0
+0
+LOGO
+silk20
+
+
+0
+0
+0
+LOGO
+silk21
+
+
+0
+0
+0
+LOGO
+silk22
 
 
 0
@@ -43238,6 +44869,13 @@ powermite3
 0
 0
 0
+SSD1306
+128x64OLED
+
+
+0
+4
+4
 Shielding_Cabinets
 Laird_Technologies_97-2002_25.40x25.40mm
 
