@@ -1,10 +1,10 @@
-# Sampler
+# 6ch Sequencer
 
 ！！ Note ！！
 
-- **This board has never actually been manufactured!** I will get feedback and improve it.  
-- The SP3T switch in the original schematic has been changed to SPTD due to availability issues.
+- **This board has never actually been manufactured!** I will get feedback and improve it.
 - Footprints such as POTs have been replaced with pin headers to accommodate easily available panel-mounted components.
+- Kicad's error checking may show unconnected, but you are probably fine. 
 - See the HAGIWO website for the Arduino code.
 - Files for the panel will be created as needed.
 
