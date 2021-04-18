@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\u01541\Desktop\gitfile\6CH_Sequencer\6ch_seq_main\6ch_Sequencer\6ch_Sequencer.sch</source>
+    <date>2021/04/18 9:25:46</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>6ch_Sequencer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J8">
+      <value>POWER</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6066B591</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606724DB</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6067091F</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60678BD3</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60678BDF</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6067B836</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6067B842</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60689E58</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60689E64</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6068DFE2</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6068DFEE</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6068FF96</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6068FFA2</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60693F94</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60694DB6</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60695A25</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606967BC</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606973BC</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606980A2</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>CH1</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6069925C</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>CH2</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6069DA72</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>CH3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6069F4ED</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>CH4</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606A15DC</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>CH5</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606A315E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>CH6</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606A4B15</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>digikey-footprints:Toggle_Switch_100SP1T1B4M2QE</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606AA0A3</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606B315F</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606B488E</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>BAT43</value>
+      <footprint>Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606B5A36</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>470R</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606BA10C</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>CLOCK_IN</value>
+      <footprint>Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606BBA9F</tstamp>
+    </comp>
+    <comp ref="Brd1">
+      <value>SSD1306</value>
+      <footprint>SSD1306:128x64OLED</footprint>
+      <libsource lib="SSD1306-128x64_OLED" part="SSD1306" description="SSD1306 OLED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606D4D59</tstamp>
+    </comp>
+    <comp ref="A1">
+      <value>Arduino_Nano_v3.x</value>
+      <footprint>Arduino:Arduino_Nano</footprint>
+      <datasheet>http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf</datasheet>
+      <libsource lib="MCU_Module" part="Arduino_Nano_v3.x" description="Arduino Nano v3.x"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6066885C</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>3.3k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606EF171</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>3.3k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606F1158</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Rotary_Encoder</value>
+      <footprint>digikey-footprints:Rotary_Encoder_Switched_PEC11R</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder" description="Rotary encoder, dual channel, incremental quadrate outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606F584D</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.01uF</value>
+      <footprint>Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606FD24F</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.01uF</value>
+      <footprint>Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606FDFFB</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+      </fields>
+      <pins>
+        <pin num="S" name="~" type="passive"/>
+        <pin num="T" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Rotary_Encoder">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="Arduino_Nano_v2.x">
+      <aliases>
+        <alias>Arduino_Nano_v3.x</alias>
+      </aliases>
+      <description>Arduino Nano v2.x</description>
+      <docs>https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf</docs>
+      <footprints>
+        <fp>Arduino*Nano*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Arduino_Nano_v2.x</field>
+        <field name="Footprint">Module:Arduino_Nano</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1/TX" type="BiDi"/>
+        <pin num="2" name="D0/RX" type="BiDi"/>
+        <pin num="3" name="~RESET" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="D2" type="BiDi"/>
+        <pin num="6" name="D3" type="BiDi"/>
+        <pin num="7" name="D4" type="BiDi"/>
+        <pin num="8" name="D5" type="BiDi"/>
+        <pin num="9" name="D6" type="BiDi"/>
+        <pin num="10" name="D7" type="BiDi"/>
+        <pin num="11" name="D8" type="BiDi"/>
+        <pin num="12" name="D9" type="BiDi"/>
+        <pin num="13" name="D10" type="BiDi"/>
+        <pin num="14" name="D11" type="BiDi"/>
+        <pin num="15" name="D12" type="BiDi"/>
+        <pin num="16" name="D13" type="BiDi"/>
+        <pin num="17" name="3V3" type="power_out"/>
+        <pin num="18" name="AREF" type="input"/>
+        <pin num="19" name="A0" type="BiDi"/>
+        <pin num="20" name="A1" type="BiDi"/>
+        <pin num="21" name="A2" type="BiDi"/>
+        <pin num="22" name="A3" type="BiDi"/>
+        <pin num="23" name="A4" type="BiDi"/>
+        <pin num="24" name="A5" type="BiDi"/>
+        <pin num="25" name="A6" type="BiDi"/>
+        <pin num="26" name="A7" type="BiDi"/>
+        <pin num="27" name="+5V" type="power_out"/>
+        <pin num="28" name="~RESET" type="input"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SSD1306-128x64_OLED" part="SSD1306">
+      <description>SSD1306 OLED</description>
+      <footprints>
+        <fp>SSD1306-128x64_OLED:SSD1306</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Brd</field>
+        <field name="Value">SSD1306</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VCC" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:/Program Files/KiCad/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:/Program Files/KiCad/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>C:/Program Files/KiCad/share/kicad/library/MCU_Module.lib</uri>
+    </library>
+    <library logical="SSD1306-128x64_OLED">
+      <uri>C:/Program Files/KiCad/share/kicad/library/SSD1306-128x64_OLED.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:/Program Files/KiCad/share/kicad/library/Switch.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J5" pin="S"/>
+      <node ref="D13" pin="2"/>
+      <node ref="SW2" pin="C"/>
+      <node ref="J4" pin="S"/>
+      <node ref="J3" pin="S"/>
+      <node ref="J6" pin="S"/>
+      <node ref="C1" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="J8" pin="3"/>
+      <node ref="J2" pin="S"/>
+      <node ref="J1" pin="S"/>
+      <node ref="A1" pin="4"/>
+      <node ref="J7" pin="S"/>
+      <node ref="J8" pin="4"/>
+      <node ref="Brd1" pin="1"/>
+      <node ref="A1" pin="29"/>
+      <node ref="D4" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="D10" pin="2"/>
+      <node ref="J8" pin="5"/>
+      <node ref="J8" pin="8"/>
+      <node ref="J8" pin="7"/>
+      <node ref="J8" pin="6"/>
+    </net>
+    <net code="2" name="Net-(A1-Pad10)">
+      <node ref="R3" pin="2"/>
+      <node ref="A1" pin="10"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="3" name="Net-(A1-Pad1)">
+      <node ref="A1" pin="1"/>
+    </net>
+    <net code="4" name="Net-(A1-Pad11)">
+      <node ref="D7" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="A1" pin="11"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="5" name="Net-(J7-PadT)">
+      <node ref="J7" pin="T"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="6" name="+5V">
+      <node ref="D1" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="Brd1" pin="2"/>
+      <node ref="A1" pin="27"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="7" name="Net-(A1-Pad2)">
+      <node ref="A1" pin="2"/>
+    </net>
+    <net code="8" name="Net-(A1-Pad26)">
+      <node ref="A1" pin="26"/>
+    </net>
+    <net code="9" name="Net-(A1-Pad25)">
+      <node ref="A1" pin="25"/>
+    </net>
+    <net code="10" name="Net-(A1-Pad24)">
+      <node ref="A1" pin="24"/>
+      <node ref="Brd1" pin="3"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="11" name="Net-(A1-Pad23)">
+      <node ref="Brd1" pin="4"/>
+      <node ref="A1" pin="23"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="12" name="Net-(A1-Pad22)">
+      <node ref="A1" pin="22"/>
+    </net>
+    <net code="13" name="Net-(A1-Pad21)">
+      <node ref="A1" pin="21"/>
+    </net>
+    <net code="14" name="Net-(A1-Pad20)">
+      <node ref="A1" pin="20"/>
+    </net>
+    <net code="15" name="Net-(A1-Pad19)">
+      <node ref="A1" pin="19"/>
+    </net>
+    <net code="16" name="Net-(A1-Pad18)">
+      <node ref="A1" pin="18"/>
+    </net>
+    <net code="17" name="Net-(A1-Pad17)">
+      <node ref="A1" pin="17"/>
+    </net>
+    <net code="18" name="Net-(A1-Pad14)">
+      <node ref="A1" pin="14"/>
+    </net>
+    <net code="19" name="Net-(A1-Pad13)">
+      <node ref="A1" pin="13"/>
+      <node ref="D12" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="20" name="Net-(A1-Pad12)">
+      <node ref="D10" pin="1"/>
+      <node ref="D9" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="A1" pin="12"/>
+    </net>
+    <net code="21" name="Net-(A1-Pad15)">
+      <node ref="A1" pin="15"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="22" name="Net-(A1-Pad16)">
+      <node ref="R8" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D14" pin="2"/>
+      <node ref="A1" pin="16"/>
+    </net>
+    <net code="23" name="Net-(A1-Pad28)">
+      <node ref="A1" pin="28"/>
+    </net>
+    <net code="24" name="Net-(A1-Pad6)">
+      <node ref="C2" pin="1"/>
+      <node ref="A1" pin="6"/>
+      <node ref="SW2" pin="B"/>
+    </net>
+    <net code="25" name="Net-(A1-Pad5)">
+      <node ref="C1" pin="1"/>
+      <node ref="SW2" pin="A"/>
+      <node ref="A1" pin="5"/>
+    </net>
+    <net code="26" name="Net-(A1-Pad7)">
+      <node ref="A1" pin="7"/>
+    </net>
+    <net code="27" name="Net-(A1-Pad3)">
+      <node ref="A1" pin="3"/>
+    </net>
+    <net code="28" name="Net-(A1-Pad9)">
+      <node ref="D3" pin="2"/>
+      <node ref="D4" pin="1"/>
+      <node ref="A1" pin="9"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="29" name="Net-(A1-Pad8)">
+      <node ref="D2" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="A1" pin="8"/>
+    </net>
+    <net code="30" name="Net-(J8-Pad2)">
+      <node ref="J8" pin="2"/>
+    </net>
+    <net code="31" name="Net-(J8-Pad1)">
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="32" name="Net-(A1-Pad30)">
+      <node ref="J8" pin="9"/>
+      <node ref="J8" pin="10"/>
+      <node ref="A1" pin="30"/>
+    </net>
+    <net code="33" name="Net-(J3-PadT)">
+      <node ref="R3" pin="1"/>
+      <node ref="J3" pin="T"/>
+    </net>
+    <net code="34" name="Net-(J5-PadT)">
+      <node ref="R5" pin="1"/>
+      <node ref="J5" pin="T"/>
+    </net>
+    <net code="35" name="Net-(J4-PadT)">
+      <node ref="J4" pin="T"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="36" name="Net-(J2-PadT)">
+      <node ref="J2" pin="T"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="37" name="Net-(J1-PadT)">
+      <node ref="R1" pin="1"/>
+      <node ref="J1" pin="T"/>
+    </net>
+    <net code="38" name="Net-(J6-PadT)">
+      <node ref="J6" pin="T"/>
+      <node ref="R6" pin="1"/>
+    </net>
+  </nets>
+</export>
