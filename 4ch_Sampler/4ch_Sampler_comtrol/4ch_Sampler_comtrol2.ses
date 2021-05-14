@@ -1,0 +1,287 @@
+
+(session 4ch_Sampler_comtrol2.ses
+  (base_design 4ch_Sampler_comtrol2.dsn)
+  (placement
+    (resolution um 10)
+    (component Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical
+      (place Conn2 1630000 -810000 front 0)
+    )
+    (component TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+      (place TOUCH3 1500000 -850000 front 0)
+      (place TOUCH1 1455000 -795000 front 0)
+    )
+    (component TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm::1
+      (place TOUCH2 1550000 -795000 front 0)
+    )
+    (component Button_Switch_THT:SW_PUSH_6mm_H7.3mm
+      (place SW1 1467500 -955000 front 0)
+    )
+    (component Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical
+      (place Conn1 1370000 -810000 front 0)
+    )
+    (component MountingHole:MountingHole_3.2mm_M3
+      (place MT3 1380000 -1290000 front 0)
+    )
+    (component MountingHole:MountingHole_3.2mm_M3::1
+      (place MT4 1620000 -430000 front 0)
+    )
+    (component "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+      (place J5 1515000 -1345000 front 90)
+      (place J4 1515000 -1205000 front 90)
+      (place J3 1485000 -1205000 front 270)
+      (place J2 1515000 -1102500 front 90)
+      (place J1 1485000 -1102500 front 270)
+    )
+    (component LED_THT:LED_D3.0mm
+      (place D14 1607500 -712500 front 0)
+      (place D11 1527500 -712500 front 0)
+      (place D8 1447500 -712500 front 0)
+      (place D5 1367500 -712500 front 0)
+    )
+    (component SSD1306:128x64OLED
+      (place Brd1 1497500 -530000 front 0)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version "(5.1.9)-1")
+    )
+    (library_out 
+      (padstack "Via[0-1]_800:400_um"
+        (shape
+          (circle F.Cu 8000 0 0)
+        )
+        (shape
+          (circle B.Cu 8000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net 3.3V
+        (wire
+          (path B.Cu 4000
+            1486700 -424000
+            1411144 -499556
+            1411144 -794256
+            1370000 -835400
+          )
+        )
+      )
+      (net "Net-(Brd1-Pad3)"
+        (wire
+          (path F.Cu 4000
+            1512100 -424000
+            1433496 -502604
+            1433496 -797304
+            1370000 -860800
+          )
+        )
+      )
+      (net "Net-(Brd1-Pad4)"
+        (wire
+          (path B.Cu 4000
+            1537500 -424000
+            1431441 -530059
+            1431441 -824759
+            1370000 -886200
+          )
+        )
+      )
+      (net "Net-(C4-Pad1)"
+        (wire
+          (path F.Cu 4000
+            1630000 -1013200
+            1630000 -1026703
+          )
+        )
+        (wire
+          (path F.Cu 4000
+            1629000 -1345000
+            1613297 -1329297
+            1613297 -1043406
+            1630000 -1026703
+          )
+        )
+      )
+      (net "Net-(D3-Pad1)"
+        (wire
+          (path B.Cu 4000
+            1392900 -712500
+            1356416 -748984
+            1356416 -898016
+            1370000 -911600
+          )
+        )
+      )
+      (net "Net-(D6-Pad1)"
+        (wire
+          (path F.Cu 4000
+            1472900 -712500
+            1472900 -804368
+            1389996 -887272
+            1389996 -917004
+            1370000 -937000
+          )
+        )
+      )
+      (net "Net-(D10-Pad2)"
+        (wire
+          (path F.Cu 4000
+            1552900 -712500
+            1552900 -742100
+            1415476 -879524
+            1415476 -916924
+            1370000 -962400
+          )
+        )
+      )
+      (net "Net-(D12-Pad1)"
+        (wire
+          (path F.Cu 4000
+            1632900 -712500
+            1632900 -744647
+            1389747 -987800
+            1370000 -987800
+          )
+        )
+      )
+      (net "Net-(J1-PadT)"
+        (wire
+          (path B.Cu 4000
+            1630000 -911600
+            1549855 -991745
+            1549855 -1004101
+            1507241 -1046715
+            1426785 -1046715
+            1371000 -1102500
+          )
+        )
+      )
+      (net "Net-(J2-PadT)"
+        (wire
+          (path B.Cu 4000
+            1629000 -1102500
+            1643584 -1087916
+            1643584 -950584
+            1630000 -937000
+          )
+        )
+      )
+      (net "Net-(J3-PadT)"
+        (wire
+          (path B.Cu 4000
+            1630000 -962400
+            1616497 -962400
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1371000 -1205000
+            1373851 -1205000
+            1470846 -1108005
+            1470846 -1090430
+            1474430 -1086846
+            1492051 -1086846
+            1616497 -962400
+          )
+        )
+      )
+      (net "Net-(J4-PadT)"
+        (wire
+          (path F.Cu 4000
+            1629000 -1205000
+            1644896 -1189104
+            1644896 -1002696
+            1630000 -987800
+          )
+        )
+      )
+      (net "Net-(SW1-Pad2)"
+        (wire
+          (path B.Cu 4000
+            1515009 -982509
+            1532500 -1000000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1467500 -1000000
+            1484991 -982509
+            1515009 -982509
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1515009 -982509
+            1515009 -951008
+            1579817 -886200
+            1630000 -886200
+          )
+        )
+      )
+      (net TOUCH_SENSOR1
+        (wire
+          (path B.Cu 4000
+            1630000 -810000
+            1616497 -810000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1455000 -795000
+            1470003 -795000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1470003 -795000
+            1485595 -779408
+            1585905 -779408
+            1616497 -810000
+          )
+        )
+      )
+      (net TOUCH_SENSOR2
+        (wire
+          (path B.Cu 4000
+            1550000 -795000
+            1565003 -795000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1565003 -795000
+            1605403 -835400
+            1630000 -835400
+          )
+        )
+      )
+      (net TOUCH_SENSOR3
+        (wire
+          (path B.Cu 4000
+            1500000 -850000
+            1515003 -850000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1616497 -860800
+            1605697 -850000
+            1515003 -850000
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1630000 -860800
+            1616497 -860800
+          )
+        )
+      )
+    )
+  )
+)

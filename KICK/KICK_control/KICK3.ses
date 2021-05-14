@@ -1,0 +1,168 @@
+
+(session KICK3.ses
+  (base_design KICK3.dsn)
+  (placement
+    (resolution um 10)
+    (component Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical
+      (place Conn 925000 -535000 front 0)
+    )
+    (component MountingHole:MountingHole_3.2mm_M3
+      (place REF2 925000 -1375000 front 0)
+    )
+    (component MountingHole:MountingHole_3.2mm_M3::1
+      (place REF1 1170000 -530000 front 0)
+    )
+    (component "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles"
+      (place RV4 1025000 -1222500 front 90)
+      (place RV3 1025000 -1025000 front 90)
+      (place RV2 1025000 -825000 front 90)
+      (place RV1 1025000 -627500 front 90)
+    )
+    (component "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles"
+      (place J3 1032500 -1450000 front 270)
+      (place J2 1182500 -1450000 front 270)
+      (place J1 1147500 -1262500 front 0)
+    )
+    (component LED_THT:LED_D3.0mm
+      (place D3 997500 -1327500 front 0)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version "(5.1.9)-1")
+    )
+    (library_out 
+      (padstack "Via[0-1]_800:400_um"
+        (shape
+          (circle F.Cu 8000 0 0)
+        )
+        (shape
+          (circle B.Cu 8000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net 5V
+        (wire
+          (path F.Cu 4000
+            1075000 -1025000
+            1075000 -825000
+          )
+        )
+        (wire
+          (path F.Cu 4000
+            1075000 -1222500
+            1075000 -1025000
+          )
+        )
+        (wire
+          (path F.Cu 4000
+            1075000 -825000
+            1075000 -627500
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            925000 -560400
+            938503 -560400
+          )
+        )
+        (wire
+          (path B.Cu 4000
+            1075000 -627500
+            1026227 -578727
+            956830 -578727
+            938503 -560400
+          )
+        )
+      )
+      (net "Net-(C8-Pad1)"
+        (wire
+          (path B.Cu 4000
+            1068500 -1450000
+            911283 -1292783
+            911283 -726517
+            925000 -712800
+          )
+        )
+      )
+      (net "Net-(D3-Pad2)"
+        (wire
+          (path F.Cu 4000
+            1022900 -1327500
+            925000 -1229600
+            925000 -763600
+          )
+        )
+      )
+      (net "Net-(J1-PadT)"
+        (wire
+          (path B.Cu 4000
+            1147500 -1376500
+            960094 -1189094
+            960094 -722494
+            925000 -687400
+          )
+        )
+      )
+      (net "Net-(J3-PadT)"
+        (wire
+          (path F.Cu 4000
+            918500 -1450000
+            946483 -1422017
+            946483 -1288411
+            911283 -1253211
+            911283 -751917
+            925000 -738200
+          )
+        )
+      )
+      (net "Net-(R1-Pad2)"
+        (wire
+          (path B.Cu 4000
+            1050000 -627500
+            1050000 -626623
+            1009177 -585800
+            925000 -585800
+          )
+        )
+      )
+      (net "Net-(R2-Pad2)"
+        (wire
+          (path B.Cu 4000
+            1050000 -825000
+            1050000 -736200
+            925000 -611200
+          )
+        )
+      )
+      (net "Net-(R3-Pad2)"
+        (wire
+          (path B.Cu 4000
+            1050000 -1025000
+            1050000 -889482
+            976301 -815783
+            976301 -687901
+            925000 -636600
+          )
+        )
+      )
+      (net "Net-(R4-Pad2)"
+        (wire
+          (path F.Cu 4000
+            1050000 -1222500
+            1050000 -1147521
+            959716 -1057237
+            959716 -696716
+            925000 -662000
+          )
+        )
+      )
+    )
+  )
+)

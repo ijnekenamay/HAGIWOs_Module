@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 6ch_Sequencer-rescue)(type Legacy)(uri ${KIPRJMOD}/6ch_Sequencer-rescue.lib)(options "")(descr ""))
+)

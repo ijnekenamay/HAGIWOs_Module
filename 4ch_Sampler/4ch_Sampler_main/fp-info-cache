@@ -1,4 +1,4 @@
-19832627184743262
+19835834949734562
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76292,6 +76292,13 @@ rotary encoder
 0
 5
 4
+SSD1306
+128x64OLED
+
+
+0
+4
+4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -86274,3 +86281,10 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+seeeduinoxiao
+Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM
+
+
+0
+20
+20
