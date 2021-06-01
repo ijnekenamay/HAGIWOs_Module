@@ -4,7 +4,7 @@ The purpose of this is to PCB the project that HAGIWO is working on.
 The Kicad project files, including the circuit and panel designs, are now available.  
 I'm just starting to learn more about circuit design, so if there are any issues with the design or the circuit itself, please let me know immediately!
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">HAGIWO氏が設計した4CHサンプラーモジュールの回路図からCADを使い自分で（ほぼ初めて）基板とパネルを作製。また組立途中やけどデザインミス連発でゲンナリ中。<br>ちゃんと動いてくれるだろうか… <a href="https://t.co/EsjBQWcYjI">pic.twitter.com/EsjBQWcYjI</a></p>&mdash; ıɾuǝʞǝuɐɯɐʎ (@ymnkng) <a href="https://twitter.com/ymnkng/status/1399330045806665729?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://t.co/EsjBQWcYjI">pic.twitter.com/EsjBQWcYjI</a></p>&mdash; ıɾuǝʞǝuɐɯɐʎ (@ymnkng) <a href="https://twitter.com/ymnkng/status/1399330045806665729?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ！！ Note ！！
 
