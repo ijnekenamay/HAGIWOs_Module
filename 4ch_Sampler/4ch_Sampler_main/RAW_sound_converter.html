@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>PROGMEM作蔵さん</title>
+<style>
+    html,
+    body {
+        height: 90%;
+        background: #ffffff;
+    }
+    
+    h1 {
+        border: dotted 2px;
+        border-radius: 20px;
+        padding: 20px;
+    }
+    
+    h1,
+    h3,
+    p {
+        color: #776666;
+        text-align: center;
+        margin: 50px;
+    }
+    
+    code {
+        color: #444444;
+        font-size: 75%;
+    }
+</style>
+<script>
+    function DragOver(event) {
+        event.preventDefault(); // ブラウザデフォルト処理（禁止マーク）を阻止
+    }
+
+    function Drop(event) {
+        event.preventDefault(); // ブラウザデフォルト処理（ページ移動）を阻止
+        var f = event.dataTransfer.files[0]; // イベントに格納されたファイルを取り出し
+        var code = "<pre><code>"
+        code += "// " + "file name : " + f.name + "\n";
+        code += "// " + "file size : " + f.size + " bytes\n\n";
+        code += "const uint8_t bindata[] PROGMEM = {";
+        var reader = new FileReader();
+        reader.onloadend = function() {
+            var uint8array = new Uint8Array(reader.result);
+            for (var i = 0; i < f.size; i++) {
+                if (i != 0) code += ",";
+                if (!(i % 16)) code += "\n  ";
+                code += (uint8array[i] > 15 ? "0x" : "0x0");
+                code += (uint8array[i].toString(16));
+            }
+            code += "\n};\n\n</code></pre>";
+            document.getElementById("main").innerHTML = code;
+        };
+        reader.readAsArrayBuffer(f);
+    }
+</script>
+
+<body ondragover="DragOver(event);" ondrop="Drop(event);" id="main">
+    <h1>PROGMEM作蔵さん</h1>
+    <h3>バイナリファイルをC言語のデータ形式に変換</h3>
+    <p>ここにファイルをドロップ</p>
+</body>
+
+</html>
