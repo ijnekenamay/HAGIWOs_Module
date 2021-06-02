@@ -17,9 +17,9 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 byte mode = 0;//display serect , sample 0-3 and amp 4-7 , pitch 8 , display 9 ,save 10
 bool disp_ratch = 0;//1=display change , 0 = no change , for reduce i2c frequency.
 
-bool disp_sw = 1; //1=display update on , 0 = no update for play sound.counter measure of delay by update display and reduce audio noise from display power supply.
-bool old_disp_sw = 0;
-bool disp_set = 1;//1=font size big but have noise , 0 = font size small due to reduce noise.
+bool disp_sw = 0; //1=display update on , 0 = no update for play sound.counter measure of delay by update display and reduce audio noise from display power supply.
+bool old_disp_sw = 1;
+bool disp_set = 0;//1=font size big but have noise , 0 = font size small due to reduce noise.
 
 //touch
 Adafruit_FreeTouch qt_1 = Adafruit_FreeTouch(A7, OVERSAMPLE_32, RESISTOR_0, FREQ_MODE_NONE);
@@ -7982,12 +7982,12 @@ void loop() {
  old_disp_sw = disp_sw;
  disp_sw = digitalRead(10);
 
- if (old_disp_sw == 1 && disp_sw == 0) { //switch on to off , mode 9 setting update
+ if (old_disp_sw == 0 && disp_sw == 1) { //switch on to off , mode 9 setting update
    //    mode = 0;
    OLED_display();
  }
 
- if (old_disp_sw == 0 && disp_sw == 1) { //switch off to on , mode 9 setting update
+ if (old_disp_sw == 1 && disp_sw == 0) { //switch off to on , mode 9 setting update
    //    mode = 0;
    ch1_ratch = 0;
    ch2_ratch = 0;
@@ -7996,7 +7996,7 @@ void loop() {
    OLED_display();
  }
 
- if (disp_sw == 1 && ch1_ratch == 0 && ch2_ratch == 0 && ch3_ratch == 0 && ch4_ratch == 0 ) {
+ if (disp_sw == 0 && ch1_ratch == 0 && ch2_ratch == 0 && ch3_ratch == 0 && ch4_ratch == 0 ) {
    //  touch sensor input
    qt1 = qt_1.measure();
    qt2 = qt_2.measure();
@@ -8348,7 +8348,7 @@ void save() {//save setting data to flash memory
 
  display.clearDisplay();  // clear display
  display.setTextSize(disp_set + 1);  
- if (disp_sw == 1) {
+ if (disp_sw == 0) {
    display.setTextSize(2);  
  }
  display.setTextColor(BLACK, WHITE);
@@ -8361,7 +8361,7 @@ void save() {//save setting data to flash memory
 void OLED_display() {
  display.clearDisplay();  
  display.setTextSize(disp_set + 1);  
- if (disp_sw == 1) {
+ if (disp_sw == 0) {
    display.setTextSize(2);  
  }
  display.setTextColor(WHITE); 
@@ -8384,10 +8384,10 @@ void OLED_display() {
    display.drawRect(95, 48, ch4_amp * 3, 15, WHITE);
 
    //mode display
-   if (mode < 4 && disp_sw == 1) {
+   if (mode < 4 && disp_sw == 0) {
      display.drawTriangle(92, 2 + mode * 16, 92, 10 + mode * 16, 86, 6 + mode * 16, WHITE);
    }
-   else if (mode >= 4 && disp_sw == 1) {
+   else if (mode >= 4 && disp_sw == 0) {
      display.drawTriangle(86, 2 + (mode - 4) * 16, 86, 10 + (mode - 4) * 16, 92, 6 + (mode - 4) * 16, WHITE);
    }
  }
