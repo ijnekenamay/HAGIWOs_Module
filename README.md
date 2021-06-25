@@ -12,7 +12,7 @@ I'm just starting to learn more about circuit design, so if there are any issues
 - I won't go into the code here, you can find it on the HAGIWO website.
 
 ## 4chSampler
-- It was manufactured with jlcPCB and actually worked fine. However, there are a few problems such as unconnected GND and misplaced mounting holes.
+- It was manufactured with jlcPCB and actually worked fine. However, there are a few problems such as unconnected GND and misplaced pcb's mounting holes.
 - Since I used a momentary switch (tact switch) for the switch, I modified the HAGIWO code slightly. Please check the .ino file in my repository.
 ![4chSampler](https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage1.jpg) 
 ![4chSampler](https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage2.jpg) 
