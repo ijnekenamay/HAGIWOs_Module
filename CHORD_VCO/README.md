@@ -1,8 +1,11 @@
 # CHORD VCO
+This is a PCB version of the CHORD VCO designed by HAGIWO.
+I actually manufactured it with JLCPCB and assembled it, and it works.
 
 ！！ Note ！！
-
-- **This board has never actually been manufactured!** I will get feedback and improve it.
+- There is no control board in this project. The hardware should be mounted and wired to the panel.
+See HAGIWO's original schematic for details.
+- I will get feedback and improve it.
 - See the HAGIWO website for the Arduino code.
 
 
