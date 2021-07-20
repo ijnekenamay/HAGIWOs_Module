@@ -11,11 +11,26 @@ I'm just starting to learn more about circuit design, so if there are any issues
 - Please note that there is no guarantee for the PCB production itself.
 - I won't go into the code here, you can find it on the HAGIWO website.
 
+## CHORD VCO
+- This is a PCB version of the CHORD VCO designed by HAGIWO.
+I actually manufactured it with JLCPCB and assembled it, and it works.
+- There is no control board in this project. The hardware should be mounted and wired to the panel.
+See HAGIWO's original schematic for details.
+- See the HAGIWO website for the Arduino code.
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image1.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image2.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image3.jpg" width="500">
+
 ## 4chSampler
 - It was manufactured with jlcPCB and actually worked fine. However, there are a few problems such as unconnected GND and misplaced pcb's mounting holes.
 - Since I used a momentary switch (tact switch) for the switch, I modified the HAGIWO code slightly. Please check the .ino file in my repository.
-![4chSampler](https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage1.jpg) 
-![4chSampler](https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage2.jpg) 
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage1.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage2.jpg" width="500">
+
+
+
+
+
 
 [LINK]  
 [HAGIWO/ハギヲ｜ note](https://note.com/solder_state)  

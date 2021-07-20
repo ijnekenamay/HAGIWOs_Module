@@ -1,7 +1,9 @@
 # CHORD VCO
 This is a PCB version of the CHORD VCO designed by HAGIWO.
 I actually manufactured it with JLCPCB and assembled it, and it works.
-<img src="https://raw.githubusercontent.com/ijnekenamay/HAGIWOs_Module/master/CHORD_VCO/image1.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image1.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image2.jpg" width="500">
+<img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image3.jpg" width="500">
 
 ！！ Note ！！
 - There is no control board in this project. The hardware should be mounted and wired to the panel.
