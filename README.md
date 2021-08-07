@@ -1,4 +1,4 @@
-# HGIWOs_Module
+# HAGIWOs_Module
 
 The purpose of this is to PCB the project that HAGIWO is working on.
 The Kicad project files, including the circuit and panel designs, are now available.
