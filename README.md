@@ -11,11 +11,12 @@ I'm just starting to learn more about circuit design, so if there are any issues
 - Please note that there is no guarantee for the PCB production itself.
 - I won't go into the code here, you can find it on the HAGIWO website.
 
-# V2044 VCF
+## V2044 VCF
 This is a PCB version of the V2044 VCF designed by HAGIWO.
 This VCF uses the same 2044 IC used in KORG PLYSIX.A simple but effective filter.
 The circuit diagram is based on HAGIWO's original.
 I actually manufactured it with JLCPCB and assembled it, and it works.
+
 <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/V2044_VCF/image1.jpg" width="500">
 <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/V2044_VCF/image2.jpg" width="500">
 
