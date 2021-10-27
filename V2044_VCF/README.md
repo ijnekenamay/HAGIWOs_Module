@@ -12,7 +12,6 @@ I actually manufactured it with JLCPCB and assembled it, and it works.
 - The v2044 package is SOP16, and only this part requires surface mount technology. (Might be easier than you think!)
 - See HAGIWO's original schematic for details.
 - I will get feedback and improve it.
-- See the HAGIWO website for the Arduino code.
 
 
 [LINK]  
