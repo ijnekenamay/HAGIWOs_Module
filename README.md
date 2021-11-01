@@ -42,6 +42,7 @@ I actually manufactured it with JLCPCB and assembled it, and it works.
 - There is no control board in this project. The hardware should be mounted and wired to the panel.
   See HAGIWO's original schematic for details.
 - See the HAGIWO website for the Arduino code.
+
   <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image1.jpg" width="500">
   <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image2.jpg" width="500">
   <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/CHORD_VCO/image3.jpg" width="500">
@@ -51,6 +52,7 @@ I actually manufactured it with JLCPCB and assembled it, and it works.
 - It was manufactured with jlcPCB and actually worked fine. However, there are a few problems such as unconnected GND and misplaced pcb's mounting holes.
 - The output is designed with Vp-p=4V, so you may feel that the volume is lower than other modules on the market. This is as designed by HAGIWO.
 - Since I used a momentary switch (tact switch) for the switch, I modified the HAGIWO code slightly. Please check the .ino file in my repository.
+
   <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage1.jpg" width="500">
   <img src="https://github.com/ijnekenamay/HAGIWOs_Module/raw/master/4ch_Sampler/buildimage2.jpg" width="500">
 
