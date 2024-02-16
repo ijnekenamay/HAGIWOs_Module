@@ -11,12 +11,6 @@ I'm just starting to learn more about circuit design, so if there are any issues
 - Please note that there is no guarantee for the PCB production itself.
 - I won't go into the code here, you can find it on the HAGIWO website.
 
-## PCBs
-
-Some of the PCBs that have been tested are for sale on my site.
-I can handle worldwide shipping! Please feel free to contact me.
-[SELL DIY MUSIC GEAR ｜ My site](https://ijnekenamay.github.io/)
-
 ## V2044 VCF
 
 This is a PCB version of the V2044 VCF designed by HAGIWO.
