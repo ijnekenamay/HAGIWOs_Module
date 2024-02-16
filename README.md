@@ -6,7 +6,7 @@ I'm just starting to learn more about circuit design, so if there are any issues
 
 ！！ Note ！！
 
-- The HAGIWO project is designed to fit into a 6HP, but the PCB width may be larger based on Eurorack standards.
+- Most projects are designed to fit 6HP, but may be larger to accommodate PCB widths.
 - Please note that there is no guarantee for the PCB production itself, as there are few actual PCBs that have been produced and verified.
 - Please note that there is no guarantee for the PCB production itself.
 - I won't go into the code here, you can find it on the HAGIWO website.
